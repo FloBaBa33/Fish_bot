@@ -1,0 +1,5 @@
+*.db
+*.db-journal
+__pycache__
+Flo.json
+.idea\*
